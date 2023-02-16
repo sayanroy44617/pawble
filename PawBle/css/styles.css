@@ -1,0 +1,71 @@
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  text-align: left;
+}
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+#title{
+    background-color: whitesmoke;
+    
+    
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+#apple{
+    color: black;
+    width: 100px;
+}
+#android{
+    width: 100px;
+}
+
+/* navbar */
+
+
+.navbar-brand
+{
+    
+    font-size: 2.5rem;
+}
+
+.nav-item{
+    padding: 0px 18px;
+}
+
+.container{
+    padding-top: 30px;
+}
+
+.col{
+    padding-top: 5px;
+}
+
+
+/* button */
+.joinbtn
+{
+    margin: 5px 5px 5px 5px;
+}
+
+.title-img
+{
+    padding-left: 40px;
+    padding-right: 0;
+}
+
+.photo
+{
+    padding-right: 0;
+    transform:rotate(10deg)
+}
