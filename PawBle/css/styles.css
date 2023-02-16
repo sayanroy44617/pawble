@@ -5,6 +5,13 @@ h1 {
   font-weight: 900;
   text-align: left;
 }
+h3{
+    font-family: ';
+}
+
+p{
+    color: gray;
+}
 
 body{
     font-family: 'Ubuntu', sans-serif;
@@ -68,4 +75,20 @@ body{
 {
     padding-right: 0;
     transform:rotate(10deg)
+}
+
+/* section middle */
+
+.features
+{
+    padding: 7% 25%;
+}
+.feature-box
+{
+    text-align: center;
+    padding: 6%; 
+}
+
+.icon{
+    margin-bottom: 1rem;
 }
